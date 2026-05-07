@@ -1,2 +1,2 @@
-# Project-2
+Minesweeper
 Mines 
